@@ -1,0 +1,46 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+button{
+  border: 1px solid rgb(24, 127, 196);
+  width: 300px;
+  height: 34px;
+  outline: none;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  background-color: rgb(24, 127, 196);
+}
+
+input{
+  border: 1px solid rgb(24, 127, 196);
+  width: 300px;
+  height: 34px;
+  outline: none;
+  border-radius: 5px;
+
+}
+
+select[name=gender]{
+  border: 1px solid rgb(24, 127, 196);
+  width: 300px;
+  height: 34px;
+  outline: none;
+  border-radius: 5px;
+}
+
+textarea{
+  border: 1px solid rgb(24, 127, 196);
+  width: 300px;
+  height: 70px;
+  outline: none;
+  border-radius: 5px;
+}
+
+label{
+  font-size: 12px;
+   color: red;
+}
+
